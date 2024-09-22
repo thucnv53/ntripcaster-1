@@ -1,5 +1,5 @@
 ************************
-* Standard NtripCaster *
+* Standard NtripCaster * THUC: Test OK
 ************************
 
 Introduction
@@ -33,7 +33,7 @@ details.
  
 Ntrip Version 1.0 is an RTCM standard for streaming GNSS data over
 the Internet. Offering the Standard NtripCaster Version 0.1.5 is
-part of BKG’s policy to help distributing this standard. RTCM may
+part of BKGâ€™s policy to help distributing this standard. RTCM may
 decide to issue further Ntrip versions as the need arises. Thus,
 it might be necessary to modify the Standard NtripCaster
 Version 0.1.5 in the future. Ntrip is already part of some GNSS
