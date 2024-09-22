@@ -1,5 +1,6 @@
 ************************
-* Standard NtripCaster * THUC: Test OK
+* Standard NtripCaster *
+* THUC: Test OK
 ************************
 
 Introduction
